@@ -1,1 +1,2 @@
-# semana-10-finalizado
+# semana-10
+Exercicio Semana 10 Devinhouse
